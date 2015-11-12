@@ -1,0 +1,8 @@
+slack_token: slack_token_here
+slack_channel: slack_channel_here
+sites:
+  - url: http://www.example.com/
+  - url: https://www.example.com/
+  - url: http://www.basic-authentication-example.com/
+    username: user
+    password: pass
