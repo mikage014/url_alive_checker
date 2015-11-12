@@ -13,6 +13,8 @@ Basic Authenticationに対応
 
 ```
 $ git clone https://github.com/mikage014/url_alive_checker.git
+
+$ bundle install
 ```
 
 ## Setting sites.yml
